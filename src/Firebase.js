@@ -11,8 +11,8 @@ const config = {
   projectId: "opus-trial-kart",
   storageBucket: "opus-trial-kart.appspot.com",
   messagingSenderId: "197255813140",
-  appId: "1:197255813140:web:88545e483ac1be4e932f01",
-  measurementId: "G-8HTLWLRJ1J"
+  appId: "1:197255813140:web:1822a03962e07168932f01",
+  measurementId: "G-6D5F5H2X0H"
 };
 firebase.initializeApp(config);
 
